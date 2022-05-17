@@ -1,0 +1,9 @@
+D:\C# Projects\PS_30_Tomas\PS_30_Tomas\UserLogin\obj\Debug\UserLogin.csproj.AssemblyReference.cache
+D:\C# Projects\PS_30_Tomas\PS_30_Tomas\UserLogin\obj\Debug\UserLogin.csproj.SuggestedBindingRedirects.cache
+D:\C# Projects\PS_30_Tomas\PS_30_Tomas\UserLogin\obj\Debug\UserLogin.csproj.CoreCompileInputs.cache
+D:\C# Projects\PS_30_Tomas\PS_30_Tomas\UserLogin\bin\Debug\UserLogin.exe.config
+D:\C# Projects\PS_30_Tomas\PS_30_Tomas\UserLogin\bin\Debug\UserLogin.exe
+D:\C# Projects\PS_30_Tomas\PS_30_Tomas\UserLogin\bin\Debug\UserLogin.pdb
+D:\C# Projects\PS_30_Tomas\PS_30_Tomas\UserLogin\obj\Debug\UserLogin.exe
+D:\C# Projects\PS_30_Tomas\PS_30_Tomas\UserLogin\obj\Debug\UserLogin.pdb
+D:\C# Projects\PS_30_Tomas\PS_30_Tomas\UserLogin\bin\Debug\Logs.txt
