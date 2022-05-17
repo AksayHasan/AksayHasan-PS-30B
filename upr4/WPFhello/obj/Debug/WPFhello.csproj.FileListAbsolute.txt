@@ -1,0 +1,51 @@
+D:\School\PS\PS_32_Vasil\WPFhello\bin\Debug\WPFhello.exe.config
+D:\School\PS\PS_32_Vasil\WPFhello\bin\Debug\WPFhello.exe
+D:\School\PS\PS_32_Vasil\WPFhello\bin\Debug\WPFhello.pdb
+D:\School\PS\PS_32_Vasil\WPFhello\obj\Debug\MainWindow.g.cs
+D:\School\PS\PS_32_Vasil\WPFhello\obj\Debug\App.g.cs
+D:\School\PS\PS_32_Vasil\WPFhello\obj\Debug\WPFhello_MarkupCompile.cache
+D:\School\PS\PS_32_Vasil\WPFhello\obj\Debug\WPFhello_MarkupCompile.lref
+D:\School\PS\PS_32_Vasil\WPFhello\obj\Debug\MainWindow.baml
+D:\School\PS\PS_32_Vasil\WPFhello\obj\Debug\WPFhello.g.resources
+D:\School\PS\PS_32_Vasil\WPFhello\obj\Debug\WPFhello.Properties.Resources.resources
+D:\School\PS\PS_32_Vasil\WPFhello\obj\Debug\WPFhello.csproj.GenerateResource.cache
+D:\School\PS\PS_32_Vasil\WPFhello\obj\Debug\WPFhello.csproj.CoreCompileInputs.cache
+D:\School\PS\PS_32_Vasil\WPFhello\obj\Debug\WPFhello.exe
+D:\School\PS\PS_32_Vasil\WPFhello\obj\Debug\WPFhello.pdb
+D:\School\PS\PS_32_Vasil\WPFhello\obj\Debug\WPFhello.csproj.AssemblyReference.cache
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\WPFhello\bin\Debug\WPFhello.exe.config
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\WPFhello\bin\Debug\WPFhello.exe
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\WPFhello\bin\Debug\WPFhello.pdb
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\WPFhello\obj\Debug\WPFhello.csproj.AssemblyReference.cache
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\WPFhello\obj\Debug\WPFhello.csproj.SuggestedBindingRedirects.cache
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\WPFhello\obj\Debug\MainWindow.g.cs
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\WPFhello\obj\Debug\MyMessage.g.cs
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\WPFhello\obj\Debug\App.g.cs
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\WPFhello\obj\Debug\WPFhello_MarkupCompile.cache
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\WPFhello\obj\Debug\WPFhello_MarkupCompile.lref
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\WPFhello\obj\Debug\MainWindow.baml
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\WPFhello\obj\Debug\MyMessage.baml
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\WPFhello\obj\Debug\WPFhello.g.resources
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\WPFhello\obj\Debug\WPFhello.Properties.Resources.resources
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\WPFhello\obj\Debug\WPFhello.csproj.GenerateResource.cache
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\WPFhello\obj\Debug\WPFhello.csproj.CoreCompileInputs.cache
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\WPFhello\obj\Debug\WPFhello.exe
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\WPFhello\obj\Debug\WPFhello.pdb
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Stefanov\WPFhello\bin\Debug\WPFhello.exe.config
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Stefanov\WPFhello\bin\Debug\WPFhello.exe
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Stefanov\WPFhello\bin\Debug\WPFhello.pdb
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Stefanov\WPFhello\obj\Debug\WPFhello.csproj.AssemblyReference.cache
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Stefanov\WPFhello\obj\Debug\WPFhello.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Stefanov\WPFhello\obj\Debug\MainWindow.g.cs
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Stefanov\WPFhello\obj\Debug\MyMessage.g.cs
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Stefanov\WPFhello\obj\Debug\App.g.cs
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Stefanov\WPFhello\obj\Debug\WPFhello_MarkupCompile.cache
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Stefanov\WPFhello\obj\Debug\WPFhello_MarkupCompile.lref
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Stefanov\WPFhello\obj\Debug\MainWindow.baml
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Stefanov\WPFhello\obj\Debug\MyMessage.baml
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Stefanov\WPFhello\obj\Debug\WPFhello.g.resources
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Stefanov\WPFhello\obj\Debug\WPFhello.Properties.Resources.resources
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Stefanov\WPFhello\obj\Debug\WPFhello.csproj.GenerateResource.cache
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Stefanov\WPFhello\obj\Debug\WPFhello.csproj.CoreCompileInputs.cache
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Stefanov\WPFhello\obj\Debug\WPFhello.exe
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Stefanov\WPFhello\obj\Debug\WPFhello.pdb

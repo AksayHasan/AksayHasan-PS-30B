@@ -1,0 +1,61 @@
+D:\School\PS\PS_32_Vasil\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.AssemblyReference.cache
+D:\School\PS\PS_32_Vasil\StudentInfoSystem\obj\Debug\MainWindow.g.cs
+D:\School\PS\PS_32_Vasil\StudentInfoSystem\obj\Debug\App.g.cs
+D:\School\PS\PS_32_Vasil\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.cache
+D:\School\PS\PS_32_Vasil\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.lref
+D:\School\PS\PS_32_Vasil\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+D:\School\PS\PS_32_Vasil\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+D:\School\PS\PS_32_Vasil\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+D:\School\PS\PS_32_Vasil\StudentInfoSystem\bin\Debug\UserLogin.exe
+D:\School\PS\PS_32_Vasil\StudentInfoSystem\bin\Debug\UserLogin.pdb
+D:\School\PS\PS_32_Vasil\StudentInfoSystem\bin\Debug\UserLogin.exe.config
+D:\School\PS\PS_32_Vasil\StudentInfoSystem\obj\Debug\MainWindow.baml
+D:\School\PS\PS_32_Vasil\StudentInfoSystem\obj\Debug\StudentInfoSystem.g.resources
+D:\School\PS\PS_32_Vasil\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+D:\School\PS\PS_32_Vasil\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.cache
+D:\School\PS\PS_32_Vasil\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CoreCompileInputs.cache
+D:\School\PS\PS_32_Vasil\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CopyComplete
+D:\School\PS\PS_32_Vasil\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+D:\School\PS\PS_32_Vasil\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\StudentInfoSystem\bin\Debug\UserLogin.exe
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\StudentInfoSystem\bin\Debug\UserLogin.pdb
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\StudentInfoSystem\bin\Debug\UserLogin.exe.config
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.AssemblyReference.cache
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\StudentInfoSystem\obj\Debug\MainWindow.g.cs
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\StudentInfoSystem\obj\Debug\App.g.cs
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.cache
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.lref
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\StudentInfoSystem\obj\Debug\MainWindow.baml
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\StudentInfoSystem\obj\Debug\StudentInfoSystem.g.resources
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.cache
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CoreCompileInputs.cache
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CopyComplete
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+C:\Users\h.stefanov\Downloads\PS_32_Vasil\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Enis\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Enis\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Enis\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Enis\StudentInfoSystem\bin\Debug\UserLogin.exe
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Enis\StudentInfoSystem\bin\Debug\UserLogin.pdb
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Enis\StudentInfoSystem\bin\Debug\UserLogin.exe.config
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Enis\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.AssemblyReference.cache
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Enis\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Enis\StudentInfoSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Enis\StudentInfoSystem\obj\Debug\App.g.cs
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Enis\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.cache
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Enis\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.lref
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Enis\StudentInfoSystem\obj\Debug\MainWindow.baml
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Enis\StudentInfoSystem\obj\Debug\StudentInfoSystem.g.resources
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Enis\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Enis\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.cache
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Enis\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CoreCompileInputs.cache
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Enis\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CopyComplete
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Enis\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Enis\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Enis\StudentInfoSystem\obj\Debug\StudentInfo.g.cs
+C:\Users\Eni boy\Desktop\ПС\ПС - Упражнения\exe4\PS_32_Enis\StudentInfoSystem\obj\Debug\StudentInfo.baml
